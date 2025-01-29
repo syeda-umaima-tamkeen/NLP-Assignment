@@ -1,0 +1,17 @@
+The requirements for running the IMDB Sentiment Analysis project as outlined in the README file are:
+
+Software & Environment
+Python 3.x
+Jupyter Notebook
+Python Libraries
+
+Required libraries :
+
+pandas – Data manipulation
+numpy – Numerical operations
+matplotlib – Data visualization
+seaborn – Statistical plots
+scikit-learn – Machine learning models
+tensorflow / keras – Deep learning models
+nltk – Natural language processing (tokenization, stopword removal)
+gensim – Topic modeling (LDA)
